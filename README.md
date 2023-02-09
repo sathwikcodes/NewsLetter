@@ -25,7 +25,7 @@ node app.js
 ```
  
 
-Once the job completes, your application will be available at `http://localhost:3000`.
+Once the job completes, your application will be available at `http://localhost:300`.
 
  <p align="center" >
  <img src="Screenshot (17).png" width="70%"> </p>
