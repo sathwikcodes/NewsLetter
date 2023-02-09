@@ -29,4 +29,5 @@ Once the job completes, your application will be available at `http://localhost:
 
  <p align="center" >
  <img src="Screenshot (17).png" width="70%"> </p>
-
+ <p align="center" >
+ <img src="Screenshot (18).png" width="70%"> </p>
